@@ -32,7 +32,7 @@ Its free so you can make it work for your own server on your own!
 - Take the car from one of the spawns
 - Go fix some cabinets in the area on the map
 - Higher rep level = more to do
-- 
+  
 <br>
 <br>
 
@@ -53,7 +53,7 @@ Its free so you can make it work for your own server on your own!
 - QB-MENU
 - [CW REP](https://github.com/Coffeelot/cw-rep)
 - [INSIDE INTERACTION](https://inside-scripts.gitbook.io/documentation/paid-scripts/interaction) Or you can make it work with whatever interaction you want or even target if you know how!
-  
+- [FLEX CRAFTIN](https://github.com/Flexiboi/flex-crafting) or find the export and remove it
 # CW REP CONFIG
 ```
 cleaning = {
