@@ -1,0 +1,1 @@
+    box                          = { name = 'box', label = 'Doos', weight = 1000, type = 'item', image = 'newsbmic.png', unique = true, useable = true, shouldClose = true, combinable = nil, description = '' },
